@@ -3,7 +3,7 @@ package com.alkapa.leetcode;
 import java.util.HashMap;
 import java.util.Map;
 
-public class Leetcode_002_LongestSubstringWithoutRepeatingCharacters {
+public class Leetcode_003_LongestSubstringWithoutRepeatingCharacters {
     public static int lengthOfLongestSubstring(String s) {
         if (s == null || s.length() <= 0) {
             return 0;

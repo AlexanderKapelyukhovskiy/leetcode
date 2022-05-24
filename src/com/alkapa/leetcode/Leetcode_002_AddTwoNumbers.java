@@ -17,7 +17,7 @@ class ListNode {
     }
 }
 
-public class A_002_AddTwoNumbers {
+public class Leetcode_002_AddTwoNumbers {
 
     public static ListNode addTwoNumbers(ListNode l1, ListNode l2) {
         ListNode t1 = l1, t2 = l2, res = null, i = null;
